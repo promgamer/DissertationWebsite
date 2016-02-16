@@ -1588,6 +1588,7 @@
 
 	p {
 		margin: 0 0 2.25em 0;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1739,6 +1740,10 @@
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
+
+	.student-title{
+		text-align: center;
+	}
 
 /* Form */
 
