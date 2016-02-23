@@ -2488,7 +2488,8 @@
 			}
 
 		#header > header {
-			padding: 3em;
+			padding-top: 2em;
+			padding-bottom: 0em;
 		}
 
 			#header > header .avatar {
